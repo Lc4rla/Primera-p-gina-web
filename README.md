@@ -16,7 +16,7 @@ p {
 <body>
 <h1>Primera página Web</h1>
 <div>
-<img src="p5.5.jpg"
+<img src="p5.3.jpg">
 <p>
 La historia de la pintura se ha planteado reiteradas veces la misma pregunta: ¡¿Cuántas cosas se pueden pintar?!
 </p>
