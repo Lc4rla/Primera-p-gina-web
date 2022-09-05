@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title> Primera Página Web </title>
+  <title>Primera Página Web</title>
 <style>
 body {
   background-color: cyan;
