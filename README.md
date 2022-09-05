@@ -5,7 +5,7 @@ body {
   background-color: cyan;
 }
 h1 {
-  color: white;
+  color: DarkCyan;
   margin-left: 40 px;
 }
 </style>
