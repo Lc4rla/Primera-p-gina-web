@@ -9,8 +9,8 @@ h1 {
   margin-left: 40 px;
 }
 </style>
+<title> Primera página Web </title>
 </head>
-<title>Primera Página Web</title>
 <body>
 <h1>Tarea 1</h1>
 </body>
