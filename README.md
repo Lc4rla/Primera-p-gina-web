@@ -8,6 +8,9 @@ h1 {
   color: darkcyan;
   margin-left: 40 px;
 }
+p {
+  color: mediumaquamarine;
+}
 </style>
 </head>
 <body>
