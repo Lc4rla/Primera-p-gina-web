@@ -1,6 +1,5 @@
 <html>
 <head>
- <title>Primera Página Web</title>
 <style>
 body {
   background-color: cyan;
@@ -12,6 +11,11 @@ h1 {
 </style>
 </head>
 <body>
-<h1>Tarea 1</h1>
+<h1>Primera página Web</h1>
+<div>
+<p>
+La historia de la pintura se ha planteado reiteradas veces la misma pregunta: ¡¿Cuántas cosas se pueden pintar?!
+</p>
+</div>
 </body>
 </html>
