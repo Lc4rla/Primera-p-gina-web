@@ -2,7 +2,7 @@
 <head>
 <style>
 body {
-  background-color: #C2F2EC;
+  background-color: lightcyan;
 }
 h1 {
   color: darkcyan;
