@@ -1,10 +1,10 @@
 body {
-    background-color: cyan;
+    background-color: #7FFFD4;
   }
   h1 {
-    color: darkcyan; 
+    color: #008B8B; 
     margin-left: 40 px;
   }
   p {
-    color: mediumaquamarine;
+    color: #008B8B;
   }
