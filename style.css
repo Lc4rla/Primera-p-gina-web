@@ -1,10 +1,14 @@
 body {
-    background-color: #7FFFD4;
-  }
+  background-image: url('p5.3.jpg');
+}
   h1 {
-    color: #008B8B; 
+    color: 	#e6ccff; 
+    margin-left: 40 px;
+  }
+  h2 {
+    color: 	#e6ccff; 
     margin-left: 40 px;
   }
   p {
-    color: #008B8B;
+    color: #e6ccff;
   }
