@@ -24,7 +24,6 @@ p {
     Asignatura: Imagen Escrita
     </h2>
 <div>
-<img src="p5.3.jpg">
 <p>
 Utilizando el código html se creó esta página
 </p>
