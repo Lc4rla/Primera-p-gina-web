@@ -2,13 +2,17 @@ body {
   background-image: url('pastel-b.jpg');
 }
   h1 {
-    color: 	#e6ccff; 
+    color: #b366ff; 
     margin-left: 40 px;
   }
   h2 {
-    color: 	#e6ccff; 
+    color: #b366ff; 
+    margin-left: 40 px;
+  }
+  h3 {
+    color: #b366ff; 
     margin-left: 40 px;
   }
   p {
-    color: #e6ccff;
+    color: #b366ff;
   }
