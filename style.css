@@ -16,3 +16,10 @@ h1 {
   p {
     color:  #7a0099;
   }
+  table, th, td {
+    border: 1px solid #7a0099;
+    border-collapse: collapse;
+  }
+  th, td {
+    background-color: #96D4D4;
+  }
