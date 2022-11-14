@@ -23,3 +23,6 @@ h1 {
   th, td {
     background-color:  #eeccff;
   }
+<picture>
+  <source media="(min-width: 650px)" srcset="Foto perfil_Carla Lorca.jpg">
+</picture>
